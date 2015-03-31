@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Vaemon的部落格
+tagline: 虛擬先生搬來了
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Josh Hu
+  email : vaemon@gmail.com
+  github : joshhu
+  twitter : joshhu
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
