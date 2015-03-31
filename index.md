@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World! 中文
+title: 胡嘉璽的部落格
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
